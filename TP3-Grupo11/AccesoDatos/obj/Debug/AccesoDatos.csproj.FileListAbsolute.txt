@@ -1,0 +1,12 @@
+C:\Users\es-acasilva\Documents\Actividad TPC\TPC - Silva - Plaza\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\es-acasilva\Documents\Actividad TPC\TPC - Silva - Plaza\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\es-acasilva\Documents\Actividad TPC\TPC - Silva - Plaza\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\es-acasilva\Documents\Actividad TPC\TPC - Silva - Plaza\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\es-acasilva\Documents\Actividad TPC\TPC - Silva - Plaza\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\es-acasilva\Documents\Actividad TPC\TPC - Silva - Plaza\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Desarollos\FRGP\TP3 - Grupo11\TP3-Grupo11\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Desarollos\FRGP\TP3 - Grupo11\TP3-Grupo11\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Desarollos\FRGP\TP3 - Grupo11\TP3-Grupo11\AccesoDatos\obj\Debug\AccesoDatos.csproj.AssemblyReference.cache
+C:\Desarollos\FRGP\TP3 - Grupo11\TP3-Grupo11\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Desarollos\FRGP\TP3 - Grupo11\TP3-Grupo11\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Desarollos\FRGP\TP3 - Grupo11\TP3-Grupo11\AccesoDatos\obj\Debug\AccesoDatos.pdb
